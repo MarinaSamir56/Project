@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Sql_Project">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-DK6E87O:DESKTOP-DK6E87O\mohamed">
+          <Created>2024-06-21T16:02:19.8267402+03:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-DK6E87O</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="Final_Project_with data and Structure.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-DK6E87O:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-DK6E87O</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Final_Project_with data and Structure.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Final_Project_WithStructure_Only.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Final_Project_WithStructure_Only.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Mohamed's Code.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Mohamed's Code.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Permissions_files.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Permissions_files.sql</FullPath>
+        </FileNode>
+        <FileNode Name="TestSheet.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>TestSheet.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Youssef's Code.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Youssef's Code.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
